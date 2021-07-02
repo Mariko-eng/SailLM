@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "105746725134",
+    "firebase_url": "https://sail-live-3458a.firebaseio.com",
+    "project_id": "sail-live-3458a",
+    "storage_bucket": "sail-live-3458a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105746725134:android:284a571f548b91f487bf5f",
+        "android_client_info": {
+          "package_name": "com.sailglobalcorp.saillive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105746725134-4pn9k10gjk56lnjtet3pj9h91oqc43ri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sailglobalcorp.saillive",
+            "certificate_hash": "5c742fa71b6ea0770cccfa5c1e67471db5567bcb"
+          }
+        },
+        {
+          "client_id": "105746725134-tauje0rjth52oe97uifkjaasf754ar2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChn-AWc8MfpBdsTrFSN7E_t0eqr5kDQGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105746725134-tauje0rjth52oe97uifkjaasf754ar2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
