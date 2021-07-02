@@ -14,4 +14,4 @@ Sail Live mobile implementation
 
 ## Contributors
 
-- Kengo Wada
+- Sail Global Tech Team
